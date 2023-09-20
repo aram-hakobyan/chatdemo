@@ -1,4 +1,4 @@
-package com.aramhakobyan.demo.chat.feature.chat
+package com.aramhakobyan.demo.chat.feature.messenger
 
 import com.aramhakobyan.demo.chat.base.BaseViewModel
 import com.aramhakobyan.demo.chat.data.model.Message

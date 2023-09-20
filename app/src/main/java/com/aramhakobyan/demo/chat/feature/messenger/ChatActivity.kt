@@ -1,9 +1,11 @@
-package com.aramhakobyan.demo.chat.feature.chat
+package com.aramhakobyan.demo.chat.feature.messenger
 
 import android.os.Bundle
 import com.aramhakobyan.demo.chat.base.BaseActivity
 import com.aramhakobyan.demo.chat.data.model.Message
 import com.aramhakobyan.demo.chat.databinding.ActivityChatBinding
+import com.aramhakobyan.demo.chat.feature.messenger.adapter.ChatAdapter
+import com.aramhakobyan.demo.chat.feature.messenger.adapter.NumberAdapter
 import com.aramhakobyan.demo.chat.hideKeyboard
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

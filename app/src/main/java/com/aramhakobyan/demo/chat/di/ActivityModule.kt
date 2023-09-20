@@ -1,7 +1,7 @@
 package com.aramhakobyan.demo.chat.di
 
-import com.aramhakobyan.demo.chat.feature.chat.ChatAdapter
-import com.aramhakobyan.demo.chat.feature.chat.NumberAdapter
+import com.aramhakobyan.demo.chat.feature.messenger.adapter.ChatAdapter
+import com.aramhakobyan.demo.chat.feature.messenger.adapter.NumberAdapter
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

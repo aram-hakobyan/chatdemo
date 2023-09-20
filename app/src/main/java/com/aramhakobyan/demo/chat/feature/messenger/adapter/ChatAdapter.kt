@@ -1,4 +1,4 @@
-package com.aramhakobyan.demo.chat.feature.chat
+package com.aramhakobyan.demo.chat.feature.messenger.adapter
 
 import android.view.LayoutInflater
 import android.view.View
